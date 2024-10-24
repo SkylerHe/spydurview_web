@@ -1,0 +1,212 @@
+[
+    {
+        "Node": "spdr01",
+        "Cores_Allocated": 61,
+        "Memory_Used": 4.67,
+        "Memory_Allocated": 655,
+        "Memory_Total": 384
+    },
+    {
+        "Node": "spdr02",
+        "Cores_Allocated": 24,
+        "Memory_Used": 97.38,
+        "Memory_Allocated": 261,
+        "Memory_Total": 1536
+    },
+    {
+        "Node": "spdr03",
+        "Cores_Allocated": 81,
+        "Memory_Used": 23.28,
+        "Memory_Allocated": 301,
+        "Memory_Total": 384
+    },
+    {
+        "Node": "spdr04",
+        "Cores_Allocated": 70,
+        "Memory_Used": 9.06,
+        "Memory_Allocated": 369,
+        "Memory_Total": 384
+    },
+    {
+        "Node": "spdr05",
+        "Cores_Allocated": 30,
+        "Memory_Used": 61.84,
+        "Memory_Allocated": 962,
+        "Memory_Total": 1536
+    },
+    {
+        "Node": "spdr06",
+        "Cores_Allocated": 44,
+        "Memory_Used": 45.62,
+        "Memory_Allocated": 318,
+        "Memory_Total": 768
+    },
+    {
+        "Node": "spdr07",
+        "Cores_Allocated": 90,
+        "Memory_Used": 94.47,
+        "Memory_Allocated": 321,
+        "Memory_Total": 1536
+    },
+    {
+        "Node": "spdr08",
+        "Cores_Allocated": 83,
+        "Memory_Used": 34.84,
+        "Memory_Allocated": 767,
+        "Memory_Total": 1536
+    },
+    {
+        "Node": "spdr09",
+        "Cores_Allocated": 49,
+        "Memory_Used": 78.35,
+        "Memory_Allocated": 471,
+        "Memory_Total": 384
+    },
+    {
+        "Node": "spdr10",
+        "Cores_Allocated": 67,
+        "Memory_Used": 88.81,
+        "Memory_Allocated": 306,
+        "Memory_Total": 384
+    },
+    {
+        "Node": "spdr11",
+        "Cores_Allocated": 10,
+        "Memory_Used": 82.62,
+        "Memory_Allocated": 676,
+        "Memory_Total": 1536
+    },
+    {
+        "Node": "spdr12",
+        "Cores_Allocated": 85,
+        "Memory_Used": 2.87,
+        "Memory_Allocated": 717,
+        "Memory_Total": 384
+    },
+    {
+        "Node": "spdr13",
+        "Cores_Allocated": 25,
+        "Memory_Used": 37.77,
+        "Memory_Allocated": 922,
+        "Memory_Total": 768
+    },
+    {
+        "Node": "spdr14",
+        "Cores_Allocated": 44,
+        "Memory_Used": 65.91,
+        "Memory_Allocated": 398,
+        "Memory_Total": 768
+    },
+    {
+        "Node": "spdr15",
+        "Cores_Allocated": 76,
+        "Memory_Used": 37.54,
+        "Memory_Allocated": 136,
+        "Memory_Total": 1536
+    },
+    {
+        "Node": "spdr16",
+        "Cores_Allocated": 81,
+        "Memory_Used": 64.39,
+        "Memory_Allocated": 774,
+        "Memory_Total": 384
+    },
+    {
+        "Node": "spdr17",
+        "Cores_Allocated": 47,
+        "Memory_Used": 97.77,
+        "Memory_Allocated": 384,
+        "Memory_Total": 384
+    },
+    {
+        "Node": "spdr18",
+        "Cores_Allocated": 33,
+        "Memory_Used": 36.14,
+        "Memory_Allocated": 353,
+        "Memory_Total": 768
+    },
+    {
+        "Node": "spdr50",
+        "Cores_Allocated": 22,
+        "Memory_Used": 13.68,
+        "Memory_Allocated": 699,
+        "Memory_Total": 384
+    },
+    {
+        "Node": "spdr51",
+        "Cores_Allocated": 58,
+        "Memory_Used": 95.31,
+        "Memory_Allocated": 841,
+        "Memory_Total": 1536
+    },
+    {
+        "Node": "spdr52",
+        "Cores_Allocated": 20,
+        "Memory_Used": 91.73,
+        "Memory_Allocated": 522,
+        "Memory_Total": 384
+    },
+    {
+        "Node": "spdr53",
+        "Cores_Allocated": 12,
+        "Memory_Used": 18.44,
+        "Memory_Allocated": 217,
+        "Memory_Total": 768
+    },
+    {
+        "Node": "spdr54",
+        "Cores_Allocated": 37,
+        "Memory_Used": 60.46,
+        "Memory_Allocated": 442,
+        "Memory_Total": 768
+    },
+    {
+        "Node": "spdr55",
+        "Cores_Allocated": 48,
+        "Memory_Used": 53.89,
+        "Memory_Allocated": 927,
+        "Memory_Total": 384
+    },
+    {
+        "Node": "spdr56",
+        "Cores_Allocated": 74,
+        "Memory_Used": 92.66,
+        "Memory_Allocated": 681,
+        "Memory_Total": 384
+    },
+    {
+        "Node": "spdr57",
+        "Cores_Allocated": 13,
+        "Memory_Used": 77.42,
+        "Memory_Allocated": 646,
+        "Memory_Total": 384
+    },
+    {
+        "Node": "spdr58",
+        "Cores_Allocated": 36,
+        "Memory_Used": 30.29,
+        "Memory_Allocated": 631,
+        "Memory_Total": 1536
+    },
+    {
+        "Node": "spdr59",
+        "Cores_Allocated": 30,
+        "Memory_Used": 67.19,
+        "Memory_Allocated": 981,
+        "Memory_Total": 768
+    },
+    {
+        "Node": "spdr60",
+        "Cores_Allocated": 48,
+        "Memory_Used": 36.14,
+        "Memory_Allocated": 205,
+        "Memory_Total": 768
+    },
+    {
+        "Node": "spdr61",
+        "Cores_Allocated": 84,
+        "Memory_Used": 77.93,
+        "Memory_Allocated": 633,
+        "Memory_Total": 768
+    }
+]
